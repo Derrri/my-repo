@@ -7,9 +7,9 @@
 
 ### Мои текущие достижения:
 
-![sert](https://i.yapx.ru/YA3QB.png)
+![sert](https://github.com/Derrri/colab/blob/main/Screenshot_79.png?raw=true)
 
-![sert](https://i.yapx.ru/YA3QC.png)
+![sert](https://github.com/Derrri/colab/blob/main/Screenshot_78.png?raw=true)
 
 #### Продолжение следует.....
 
