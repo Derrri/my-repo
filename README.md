@@ -11,6 +11,8 @@
 
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_78.png?raw=true)
 
+![sert](https://github.com/Derrri/colab/blob/main/photo_2024-09-27_15-45-11.jpg)
+
 #### Продолжение следует.....
 
 [Пишите на почту...](mailto:ogiyv@mail.ru)<br>
