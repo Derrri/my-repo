@@ -6,12 +6,15 @@
  + **Учусь в Нетологии на профу *Frontend-разраб***
 
 ### Мои текущие достижения:
+<details>
+<summary>Нажмите здесь, чтобы увидеть сертификаты</summary>
 
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_79.png?raw=true)
 
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_78.png?raw=true)
 
 ![sert](https://github.com/Derrri/colab/blob/main/photo_2024-09-27_15-45-11.jpg)
+</details>
 
 #### Продолжение следует.....
 
