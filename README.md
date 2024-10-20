@@ -14,6 +14,9 @@
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_78.png?raw=true)
 
 ![sert](https://github.com/Derrri/colab/blob/main/photo_2024-09-27_15-45-11.jpg)
+![sert](https://github.com/Derrri/colab/blob/main/65c3b0d42d041141a851765737f3bb56179588dd.png)
+![sert](https://github.com/Derrri/colab/blob/main/c8c93951df3460241cc7af8ee06557b9.jpeg)
+![sert](https://github.com/Derrri/colab/blob/main/ee70d76bdfddcb6032dd55df1c0281475281a532.png)
 </details>
 
 #### Продолжение следует.....
