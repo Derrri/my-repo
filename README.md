@@ -8,7 +8,9 @@
 ### Мои текущие достижения:
 <details>
 <summary>Нажмите здесь, чтобы увидеть сертификаты</summary>
- 
+
+![sert](https://github.com/Derrri/colab/blob/main/Screenshot_107.png?raw=true)
+![sert](https://github.com/Derrri/colab/blob/main/Screenshot_108.png?raw=true)
 ![sert](https://github.com/Derrri/colab/blob/main/5779fdebfce93ccbef0dca327394b85c.jpeg)
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_91.png?raw=true)
 ![sert](https://github.com/Derrri/colab/blob/main/Screenshot_79.png?raw=true)
